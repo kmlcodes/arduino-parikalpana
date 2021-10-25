@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "programmer": "AVRISP mkII",
+    "sketch": "infrared_thermometer_lcd_PCB_version.ino",
+    "port": "/dev/ttyUSB0"
+}
